@@ -1,0 +1,23 @@
+{
+  "name": "emojifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gumbachi/Emojifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gumbachi/Emojifier/issues"
+  },
+  "homepage": "https://github.com/Gumbachi/Emojifier#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
